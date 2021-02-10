@@ -19,6 +19,7 @@ body {
 
 
 /* ----- ----- HEADER ----- ----- */
+
 header {
   background: url("../img/bg2.jpg");
   background-attachment: fixed;
@@ -62,7 +63,6 @@ header {
       header .contenedor-texto .texto .profesion {
         font-size: 25px;
         line-height: 25px; }
-
 
   header .contenedor-texto {
     animation: entrada 2.5s ease;
@@ -145,6 +145,7 @@ header {
      }     
 
 /* ----- ----- FOOTER ----- ----- */
+
 footer .contacto {
   padding: 60px 0; }
   footer .contacto .titulo {
